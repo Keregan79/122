@@ -1,0 +1,10 @@
+C:\Users\29432974\Desktop\MatchingGameKuksheva\bin\Debug\MatchingGameKuksheva.exe.config
+C:\Users\29432974\Desktop\MatchingGameKuksheva\bin\Debug\MatchingGameKuksheva.exe
+C:\Users\29432974\Desktop\MatchingGameKuksheva\bin\Debug\MatchingGameKuksheva.pdb
+C:\Users\29432974\Desktop\MatchingGameKuksheva\obj\Debug\MatchingGameKuksheva.csproj.AssemblyReference.cache
+C:\Users\29432974\Desktop\MatchingGameKuksheva\obj\Debug\MatchingGameKuksheva.Form1.resources
+C:\Users\29432974\Desktop\MatchingGameKuksheva\obj\Debug\MatchingGameKuksheva.Properties.Resources.resources
+C:\Users\29432974\Desktop\MatchingGameKuksheva\obj\Debug\MatchingGameKuksheva.csproj.GenerateResource.cache
+C:\Users\29432974\Desktop\MatchingGameKuksheva\obj\Debug\MatchingGameKuksheva.csproj.CoreCompileInputs.cache
+C:\Users\29432974\Desktop\MatchingGameKuksheva\obj\Debug\MatchingGameKuksheva.exe
+C:\Users\29432974\Desktop\MatchingGameKuksheva\obj\Debug\MatchingGameKuksheva.pdb
